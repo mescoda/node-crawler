@@ -1,4 +1,9 @@
-[![Build Status](https://travis-ci.org/sylvinus/node-crawler.svg?branch=master)](https://travis-ci.org/sylvinus/node-crawler)
+
+这个分支 fork 自 0.4 版本，因为当前的项目维护者已经发布了全新的不向下兼容的 1.0 版本，这个分支不会 pull request 到原项目。
+
+主要用途是为我之前依赖 0.4 版本的抓取项目服务，进行功能添加 / bug fix。
+
+---
 
 node-crawler
 ------------
